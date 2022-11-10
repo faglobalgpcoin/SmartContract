@@ -1,7 +1,8 @@
 # XGP Smart Contract Source Code
 
 ## Solidity Compiler
-* Clicking the Solidity icon in the icon panel brings you to the Solidity Compiler. The default view of the Solidity Compiler shows the basic configuration. To open the Advanced Configuration panel, click the Advanced Configuration button. For details on advanced features - see below.
+* Clicking the Solidity icon in the icon panel brings you to the Solidity Compiler.</br> The default view of the Solidity Compiler shows the basic configuration. </br>
+To open the Advanced Configuration panel, click the Advanced Configuration button. For details on advanced features - see below.
 
 ## Solidity Compiler Basics
 * Selecting a contract to compile
