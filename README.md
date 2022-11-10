@@ -6,15 +6,20 @@ To open the Advanced Configuration panel, click the Advanced Configuration butto
 
 ## Solidity Compiler Basics
 * Selecting a contract to compile
+
+<img src="https://drive.google.com/uc?id=1i4ETZlQbKaEG2PpOi3xrhUTfwdaMv68B" width="300" height="300">
+
 * To select a contract to compile, choose a file in the File Explorer. Or if there are several files open, make sure the one you want to compile is the active file in the Editor.
 
 
 ## Triggering compilation
-* Compiling is triggered when you:
+### Compiling is triggered when you:
 
 * click the compile button 
 * use the shortcut control + s.
 * right click on a file in the File Explorer and selecting Compile option
+
+<img src="https://drive.google.com/uc?id=1jp8Woj1l6GGXhJM22-9xFOX3E5eJW9-b" width="400" height="400">
 
 ## Auto Compile
 * If the auto compile checkbox is checked, compiliation will occur every few seconds (when the file is auto-saved) as well as when another file is selected. If a contract has a lot of dependencies, it can take a while to compile - so you use autocompilation at your discretion.
@@ -56,8 +61,9 @@ The compiler version is selected in the COMPILER dropdown list (A. in fig. 1 abo
 ## Advanced Compiler Configurations
 * Clicking on Advanced Compiler Configurations will open this panel .
 
-
 * There is a radio button to choose whether to configure the compiler through the interface or to use a JSON file for the cofiguration (R. in fig 2).
+
+<img src="https://drive.google.com/uc?id=12J23fsjhiiWYxVHnZ8egNK7e8HIJ-qlJ" width="400" height="400">
 
 ## Solidity or YUL
 Since the Solidity version 0.5.7, it is possible to compile Yul files. Please read the (solidity documentation about Yul) which contain some code examples. You can use the language dropdown to switch the language. This dropdown list is only available for versions greater than or equal to 0.5.7.
