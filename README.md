@@ -94,3 +94,4 @@ To see the name of the hard fork used in the current compilation, click the “C
 
 ## Use a Custom Solidity Compiler
 * For those writing your own custom solidity compiler, you can import that by clicking the + button to open a modal where you can input the url of the compiler to be loaded.
+
