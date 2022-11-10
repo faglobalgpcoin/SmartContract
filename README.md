@@ -6,7 +6,6 @@ To open the Advanced Configuration panel, click the Advanced Configuration butto
 
 ## Solidity Compiler Basics
 * Selecting a contract to compile
-
 <img src="https://drive.google.com/uc?id=1i4ETZlQbKaEG2PpOi3xrhUTfwdaMv68B" width="300" height="300">
 
 * To select a contract to compile, choose a file in the File Explorer. Or if there are several files open, make sure the one you want to compile is the active file in the Editor.
