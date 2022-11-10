@@ -17,7 +17,6 @@ To open the Advanced Configuration panel, click the Advanced Configuration butto
 * click the compile button 
 * use the shortcut control + s.
 * right click on a file in the File Explorer and selecting Compile option
-
 <img src="https://drive.google.com/uc?id=1jp8Woj1l6GGXhJM22-9xFOX3E5eJW9-b" width="400" height="400">
 
 ## Auto Compile
